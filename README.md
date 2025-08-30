@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🧠 **AI-Powered Grammar Analysis Tool**</h1>
+<h1 align="center">🧠 AI-Powered Grammar Analysis Tool</h1>
 <h3 align="center">Leverage AI to Extract Text, Analyze Grammar, and Enhance Content with Visual Annotations</h3>
 
 <p align="center">
